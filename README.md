@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 ### 🛠 Tools
 
-<img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
