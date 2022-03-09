@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/tjwogns0820@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
-### 👋 Hi there! I'm Android App Developer.🔋
+### 👋 Hello there! I'm Android App Developer.🔋
 
 
 
